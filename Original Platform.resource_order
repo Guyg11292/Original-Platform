@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
   ],
 }
