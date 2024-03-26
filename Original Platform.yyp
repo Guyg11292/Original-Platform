@@ -34,7 +34,10 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
+    {"id":{"name":"Interior_01","path":"sprites/Interior_01/Interior_01.yy",},},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},

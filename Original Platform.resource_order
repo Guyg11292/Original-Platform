@@ -17,7 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Interior_01","order":2,"path":"sprites/Interior_01/Interior_01.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
   ],
 }
