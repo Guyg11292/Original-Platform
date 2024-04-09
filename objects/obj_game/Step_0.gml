@@ -7,3 +7,13 @@ switch(room)
         break;
 	}
 }
+
+if (!place_meeting(x, y, [oPlayer, oDoor]))
+{
+    switch(room)
+    {
+    case Room1:
+        room_goto(Room3);
+        break;
+	}
+}
