@@ -8,12 +8,8 @@ switch(room)
 	}
 }
 
-if (!place_meeting(x, y, [oPlayer, oDoor]))
+if (keyboard_check_pressed(vk_backspace))
 {
-    switch(room)
-    {
-    case Room1:
-        room_goto(Room3);
-        break;
-	}
+	room_goto(Room3);
+	
 }
