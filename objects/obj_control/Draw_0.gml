@@ -13,3 +13,6 @@ case Room1:
     draw_set_halign(fa_left);
     break;
 }
+'''
+room_nextplace_meetingroom_get_name()
+'''
