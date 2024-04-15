@@ -43,3 +43,7 @@ if(place_meeting(x,y+vsp,oWall))
 	vsp = 0;
 }
 y = y + vsp;
+
+if(place_meeting(x,y+1,oWall)) && (key_jump){
+	currjumps = 0;
+}
