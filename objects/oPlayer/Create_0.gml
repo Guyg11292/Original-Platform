@@ -6,3 +6,4 @@ walksp = 10;
 jumpsp = 9
 maxjumps = 2;
 currjumps = 0;
+points = 0

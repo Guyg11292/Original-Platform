@@ -5,3 +5,4 @@ switch(room)
         room_goto(Room2);
         break;
 	}
+	

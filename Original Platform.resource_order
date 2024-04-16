@@ -27,6 +27,8 @@
     {"name":"oKey","order":6,"path":"objects/oKey/oKey.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
     {"name":"obj_game","order":4,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"oKey1","order":7,"path":"objects/oKey1/oKey1.yy",},
+    {"name":"oKey2","order":8,"path":"objects/oKey2/oKey2.yy",},
     {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
     {"name":"oDoor","order":5,"path":"objects/oDoor/oDoor.yy",},
   ],

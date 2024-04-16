@@ -47,3 +47,23 @@ y = y + vsp;
 if(place_meeting(x,y+1,oWall)) && (key_jump){
 	currjumps = 0;
 }
+if(place_meeting(x,y+vsp,oKey2))
+{
+	points += 1;
+	instance_destroy(oKey2)
+}
+
+if(place_meeting(x,y+hsp,oKey2))
+{
+	points += 1;
+	instance_destroy(oKey2)
+}	
+if(place_meeting(x,y+hsp,oKey2))
+{
+	points += 1;
+	instance_destroy(oKey2)
+}	
+
+if (points == 3){
+	room_goto(Room3)
+}
