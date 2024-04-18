@@ -64,6 +64,9 @@ if(place_meeting(x,y+hsp,oKey2))
 	instance_destroy(oKey2)
 }	
 
-if (points == 3){
+if (points == 1){
 	room_goto(Room3)
+}
+if (points == 2){
+	room_goto(Room4)
 }
