@@ -4,7 +4,7 @@
   "name": "Sprite4",
   "bbox_bottom": 61,
   "bbox_left": 1,
-  "bbox_right": 61,
+  "bbox_right": 62,
   "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,

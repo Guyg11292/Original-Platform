@@ -20,7 +20,7 @@
     {"name":"sKey","order":4,"path":"sprites/sKey/sKey.yy",},
     {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
-    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"etc","order":2,"path":"objects/etc/etc.yy",},
     {"name":"Interior_01","order":2,"path":"sprites/Interior_01/Interior_01.yy",},
     {"name":"Room3","order":3,"path":"rooms/Room3/Room3.yy",},
     {"name":"Room4","order":4,"path":"rooms/Room4/Room4.yy",},
