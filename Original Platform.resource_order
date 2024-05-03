@@ -18,7 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sKey","order":4,"path":"sprites/sKey/sKey.yy",},
-    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Enemy","order":3,"path":"sprites/Enemy/Enemy.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"etc","order":2,"path":"objects/etc/etc.yy",},
     {"name":"Interior_01","order":2,"path":"sprites/Interior_01/Interior_01.yy",},
@@ -26,11 +26,13 @@
     {"name":"Room4","order":4,"path":"rooms/Room4/Room4.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"oKey","order":6,"path":"objects/oKey/oKey.yy",},
+    {"name":"Lava","order":5,"path":"sprites/Lava/Lava.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
     {"name":"obj_game","order":4,"path":"objects/obj_game/obj_game.yy",},
     {"name":"oKey1","order":7,"path":"objects/oKey1/oKey1.yy",},
     {"name":"oKey2","order":8,"path":"objects/oKey2/oKey2.yy",},
     {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
     {"name":"oDoor","order":5,"path":"objects/oDoor/oDoor.yy",},
+    {"name":"Enemy_1","order":9,"path":"objects/Enemy_1/Enemy_1.yy",},
   ],
 }

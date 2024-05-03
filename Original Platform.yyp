@@ -35,7 +35,7 @@
   },
   "resources": [
     {"id":{"name":"sKey","path":"sprites/sKey/sKey.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Enemy","path":"sprites/Enemy/Enemy.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"etc","path":"objects/etc/etc.yy",},},
     {"id":{"name":"Interior_01","path":"sprites/Interior_01/Interior_01.yy",},},
@@ -43,6 +43,7 @@
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"oKey","path":"objects/oKey/oKey.yy",},},
+    {"id":{"name":"Lava","path":"sprites/Lava/Lava.yy",},},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"oKey1","path":"objects/oKey1/oKey1.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},},
+    {"id":{"name":"Enemy_1","path":"objects/Enemy_1/Enemy_1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

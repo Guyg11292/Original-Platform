@@ -70,3 +70,7 @@ if (points == 1){
 if (points == 2){
 	room_goto(Room4)
 }
+if(place_meeting(x,y+hsp,Enemy_1))
+{
+	instance_destroy(Enemy_1)
+}
