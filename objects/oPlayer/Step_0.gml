@@ -1,5 +1,5 @@
 /// @desc Core Player Logic
-
+death = 0;
 // Get player Inputs
 key_left = keyboard_check(vk_left);
 key_right = keyboard_check(vk_right);
@@ -72,5 +72,13 @@ if (points == 2){
 }
 if(place_meeting(x,y+hsp,Enemy_1))
 {
-	instance_destroy(Enemy_1)
+	instance_destroy(oPlayer);
+	death += 1;
+	room_goto(Room2)
+}
+if(place_meeting(x,y+vsp,Enemy_1))
+{
+	instance_destroy(oPlayer);
+	death += 1;
+	room_goto(Room2)
 }
